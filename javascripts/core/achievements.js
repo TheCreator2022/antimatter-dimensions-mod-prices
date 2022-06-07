@@ -103,6 +103,7 @@ const allAchievements = {
   r136 : "I told you already, time is relative",
   r137 : "Now you're thinking with dilation!",
   r138 : "This is what I have to do to get rid of you.",
+  r139 : "Nevers Actularry",
   s11 : "The first one's always free",
   s12 : "Just in case",
   s13 : "It pays to have respect",
